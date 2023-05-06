@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GopikaVarshini23
-- 👀 I’m interested in Data Sciences and ML
+- 👀 I’m interested in Data Sciences and ML and web based projects
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on DS,ML and cloud projects
 - 📫 How to reach me : gopikavarshini.23@gmail.com
 - linkedin-https://www.linkedin.com/in/gopika-varshini-l-55aa13208
 
